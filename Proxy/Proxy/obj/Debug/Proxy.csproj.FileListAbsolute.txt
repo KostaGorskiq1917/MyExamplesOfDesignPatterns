@@ -1,0 +1,8 @@
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\obj\Debug\Proxy.csproj.AssemblyReference.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\obj\Debug\Proxy.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Proxy\Proxy\obj\Debug\Proxy.pdb

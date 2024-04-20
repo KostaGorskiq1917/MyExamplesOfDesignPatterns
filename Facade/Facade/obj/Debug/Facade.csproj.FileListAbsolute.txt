@@ -1,0 +1,8 @@
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\bin\Debug\Facade.exe.config
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\bin\Debug\Facade.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\bin\Debug\Facade.pdb
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\obj\Debug\Facade.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\obj\Debug\Facade.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Facade\Facade\obj\Debug\Facade.pdb

@@ -1,0 +1,8 @@
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\bin\Debug\Command.exe.config
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\bin\Debug\Command.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\bin\Debug\Command.pdb
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\obj\Debug\Command.csproj.AssemblyReference.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\obj\Debug\Command.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\obj\Debug\Command.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Command\Command\obj\Debug\Command.pdb
