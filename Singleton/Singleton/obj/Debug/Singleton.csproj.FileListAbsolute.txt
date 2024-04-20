@@ -1,0 +1,8 @@
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Singleton\Singleton\obj\Debug\Singleton.pdb

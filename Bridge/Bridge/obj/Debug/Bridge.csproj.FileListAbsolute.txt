@@ -1,0 +1,8 @@
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\bin\Debug\Bridge.exe.config
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\bin\Debug\Bridge.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\obj\Debug\Bridge.csproj.AssemblyReference.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\obj\Debug\Bridge.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\obj\Debug\Bridge.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Bridge\Bridge\obj\Debug\Bridge.pdb

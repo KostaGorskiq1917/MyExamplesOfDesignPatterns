@@ -1,0 +1,8 @@
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\obj\Debug\Prototype.csproj.AssemblyReference.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\obj\Debug\Prototype.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\bin\Debug\Prototype.exe.config
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\bin\Debug\Prototype.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\bin\Debug\Prototype.pdb
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\obj\Debug\Prototype.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Prototype\Prototype\obj\Debug\Prototype.pdb

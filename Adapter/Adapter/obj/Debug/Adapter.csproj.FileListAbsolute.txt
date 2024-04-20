@@ -1,0 +1,8 @@
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\obj\Debug\Adapter.csproj.SuggestedBindingRedirects.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Programirane\MyExamplesOfDesingPatterns\Adapter\Adapter\obj\Debug\Adapter.pdb
